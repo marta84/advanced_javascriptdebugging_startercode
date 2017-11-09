@@ -5,6 +5,6 @@ function divide(numerator, denominator) {
     console.log("denominator = " + denominator);
     return denominator/numerator;
 }
-var answer = divide(10, 2);
+var answer = divide(2,10);
 console.log("answer = " + answer);
 console.log("Is that answer correct?");
